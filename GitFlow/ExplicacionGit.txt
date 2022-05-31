@@ -1,0 +1,29 @@
+-Se utilzara Gitflow debido a las siguientes caracteristicas:
+->Podemos crear y controlar  las versiones de nuestro software eficientemente.
+Gracias a esto podemos volver a una version anterior y resolver los errrores.
+->Se puede observar los cambios de cada version creada por los desarrolladores y asi tener
+una mejor eficiencia al momento de la elaboracion del codigo.
+
+Los gitflow cuentan con las siguientes ramas:
+
+Master:
+Es la rama principal o por defecta que se utilizara para todas las versiones
+creadas por el software.
+
+Hotfix:
+Esta rama tiene la funcion de corregir los errores cuando 
+el software haya cuumplido todo el proceso de elaboracion.
+
+Realese:
+Esta rama tiene la funcionalidad de implementar nuevas caracteristicas 
+hasta el momento realizado para la rama master.
+
+Future:
+
+Esta rama tiene la funcionalidad de implementar las funcionalidades
+del objetivo del software en este caso el landing page.
+
+
+
+Por ello se utilizara GIT para la construccion y organizacion de la elaboracion de
+nuestro objetivo que es el Landing page en el github.
