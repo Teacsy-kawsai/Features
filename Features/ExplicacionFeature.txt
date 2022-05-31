@@ -1,0 +1,4 @@
+La funcion de esta caperta tiene un solo objetivo la cual es :
+
+-Se pueda almacenar las implementaciones y funcionalidades de nuestro objetivo 
+de software cada version creada.
