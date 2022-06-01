@@ -2,7 +2,7 @@
 
 Scenario: Consulta del estado del proceso de mantenimiento de vehículo
 
-Guiven When Then And
+
 Guiven que el usuario con rol de dueño de vehículo desea consultar el estado del proceso de mantenimiento de su vehículo
        And el usuario se encuentra en la ventana principal de la plataforma.
 When el usuario haga click en la opción “consultas” 
