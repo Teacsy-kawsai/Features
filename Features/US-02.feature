@@ -1,6 +1,6 @@
 #---------------------------------------------------------------
 
-Scenario : Consulta del estado del proceso de mantenimiento de vehículo
+Scenario: Consulta del estado del proceso de mantenimiento de vehículo
 
 Guiven When Then And
 Guiven que el usuario con rol de dueño de vehículo desea consultar el estado del proceso de mantenimiento de su vehículo
@@ -13,7 +13,7 @@ Then el sistema lo redirigirá a la ventana de “Buscar servicio contratado”,
 #---------------------------------------------------------------
 
 
-Scenario : Consulta del estado del proceso de mantenimiento de vehículo con un código equivocado.
+Scenario: Consulta del estado del proceso de mantenimiento de vehículo con un código equivocado.
 
 Guiven que el usuario con rol de dueño de vehículo ingresó un código equivocado.
       And el usuario se encuentra en la ventana de “consultas” 
